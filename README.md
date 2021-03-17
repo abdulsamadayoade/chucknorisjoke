@@ -9,4 +9,4 @@ Here is how the app works:
 
 3. The jokes is displayed on the webpage.
 
-Live URL =
+Live URL = http://abdulsamad.xyz/chucknorisjoke/
